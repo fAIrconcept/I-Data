@@ -1,5 +1,13 @@
-# I-Data
-How to sort an structure data that it is both human and machine readable.
+# Concept of I-Data
+A Human Language Readable for Computers
 
 
-Markdown is pretty ok, but the fast way is not good to machine read.
+## Markdown as A Start
+
+Markdown is a fast way to format Text; if we use Tags like \<ImportantValue> <ImportantValue> 3.0 </ImportantValue> \</ImportantValue>, we can parse the md document for values and association. 
+
+Diaries for Food, Ceremonies, or expenditures can be noted and parsed in more detail.
+
+## MD editor
+https://stackedit.io/app
+[Obsidean](https://obsidian.md/)https://obsidian.md/
