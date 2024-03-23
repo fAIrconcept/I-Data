@@ -9,5 +9,8 @@ Markdown is a fast way to format Text; if we use Tags like \<ImportantValue> <Im
 Diaries for Food, Ceremonies, or expenditures can be noted and parsed in more detail.
 
 ## MD editor
-https://stackedit.io/app
-[Obsidean](https://obsidian.md/)https://obsidian.md/
+[https://www.markdownguide.org](https://www.markdownguide.org)
+
+[stackedit.io](https://stackedit.io/app)
+
+[Obsidean](https://obsidian.md/)
